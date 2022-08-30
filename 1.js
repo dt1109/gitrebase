@@ -1,3 +1,4 @@
 function name(params) {
-    console.log(123)
+    console.log('ad)
+    console.log(12366)
 }
